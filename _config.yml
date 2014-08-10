@@ -1,0 +1,10 @@
+# Site settings
+title: Thoughts of a Gentoo ZFS developer
+description: "I have plenty to share with the world. This blog is intended to act as an outlet for doing that. It is the result of requests that I to setup a blog to do that."
+baseurl: ""
+url: "http://ryao.github.io"
+github_username:  ryao
+
+# Build settings
+markdown: kramdown
+permalink: pretty
